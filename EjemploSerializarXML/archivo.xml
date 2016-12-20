@@ -1,0 +1,10 @@
+<Empresa>
+  <nombre>Arcor</nombre>
+  <calle>25 de mayo</calle>
+  <numeroCalle>123</numeroCalle>
+  <piso>asd</piso>
+  <departamento>2</departamento>
+  <cuit>205588696326</cuit>
+  <cantidadEmpleados>2000</cantidadEmpleados>
+  <apoderado>Emilio</apoderado>
+</Empresa>
